@@ -56,15 +56,14 @@ The micro:bit is a compact computer equipped with a processor and numerous input
 
 ### Hardware Specifications
 
-| Processor | [Nordic Semiconductor](https://lancaster-university.github.io/microbit-docs/resources/datasheets/nRF51822.pdf) |
+|Processor |[Nordic Semiconductor](https://lancaster-university.github.io/microbit-docs/resources/datasheets/nRF51822.pdf) |
 | --- | --- |
 | RAM | 128KB |
 | Flash ROM  | 512KB |
 | Speed  | 64Mhz |
 | Bluetooth | Bluetooth 5.1 with Bluetooth Low Energy(BLE) |
 | Radio | 2.4GHz  |
-| Buttons | 2 programmable buttons (A and B)
-1 system button (Power or Reset) |
+| Buttons | 2 programmable buttons (A and B)<br>1 system button (Power or Reset) |
 | Display | 5x5 miniature surface mount red LED  |
 | Motion Sensor | [LSM303AGR](https://www.st.com/en/mems-and-sensors/lsm303agr.html) (3 magnetic field and 3 acceleration axes, 2/4/8/16g ranges) |
 | Temperature Sensor | On-core nRF52 (range: -40°C to 105°C) |
@@ -73,7 +72,6 @@ The micro:bit is a compact computer equipped with a processor and numerous input
 | Edge Connector | 25 Pins in total, including 3 GPIO and 2 power rings, compatible with both 4mm plugs and crocodile clips. For additional details on pinouts, please refer to https://tech.microbit.org/hardware/edgeconnector/. |
 | USB Communications | Micro USB 2.0 port |
 | Power Supply | 5V  on the USB connector <br> 3V battery plugged into the JST connector |
-
 ---
 
 ## Setup Guide
