@@ -56,8 +56,9 @@ The micro:bit is a compact computer equipped with a processor and numerous input
 
 ### Hardware Specifications
 
-|Processor |[Nordic Semiconductor](https://lancaster-university.github.io/microbit-docs/resources/datasheets/nRF51822.pdf) |
+|  |  |
 | --- | --- |
+|Processor|[Nordic Semiconductor](https://lancaster-university.github.io/microbit-docs/resources/datasheets/nRF51822.pdf) |
 | RAM | 128KB |
 | Flash ROM  | 512KB |
 | Speed  | 64Mhz |
